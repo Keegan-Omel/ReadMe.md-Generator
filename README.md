@@ -3,10 +3,6 @@
 
 This is a Javascript program that generates a ReadMe.md file for a project by asking the user a series of questions using the inquirer package. The generated file includes sections for project description, installation instructions, usage information, contribution guidelines, testing instructions, license, and contact information.
 
-![alt text](ima![Screenshot 2023-05-05 at 11 28 30 PM](https://user-images.githubusercontent.com/123503452/236596789-502c39bd-d5dc-4698-b83f-6cc10612993e.png)
-ge_path "title")
-
-
 ## Table of Contents
 
 * [Installation](#installation)
