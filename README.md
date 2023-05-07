@@ -38,3 +38,4 @@ If you have any questions, please feel free to contact me:
 
 * GitHub: https://github.com/https://github.com/Keegan-Omel
 * Email: keeg_7@hotmail.com
+* Walk Through Video Link: https://drive.google.com/file/d/1iSTwNkIOg1Wan5VnMKl6WKso507pYbod/view
